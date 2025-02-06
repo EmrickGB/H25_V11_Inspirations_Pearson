@@ -1,3 +1,3 @@
 # Emrick Pearson
 
-![photo](photo_SF_K_Nnebe_Afflux_20231201.jpg)
+![photo](https://m.gjcdn.net/content/200/8994218-ll-jrnd53ss-v4.webp)
