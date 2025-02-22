@@ -4,8 +4,6 @@
 
 ### Le Tunnel de Mirroire
 
-![Vue D'ensemble](images/VueDensemble2.jpg)
+<img src="images/VueDensemble2.jpg" wdith="350" height="400"> <img src="images/vuedensembleexterieure.jpg" wdith="350" height="400">
 
-![Vue D'ensemble](images/vuedensembleexterieure.jpg)
-
-Cet 
+Cet attraction est situé au tout début de l'exposition, et devrais être la première que les visiteurs vont voir,
