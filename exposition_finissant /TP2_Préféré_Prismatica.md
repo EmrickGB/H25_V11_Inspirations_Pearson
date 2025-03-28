@@ -26,7 +26,7 @@ Chaque couleure, lorsque l'on descine sur le tableau blanc, la couleure respecti
 - Le Bleu donne un ambience tranquille et profonde avec des sons qui sonnent comme des bulles sous l'eau qui enveloppent
 - Le Violet donne une ambience aériene, comme si on n'était en hauteur
   
-> (Désolé si ces description ne sont pas super, je n'ai jamais été très bon à décrire des effets sonore)
+> (Désolé si ces descriptions ne sont pas supers, je n'ai jamais été très bon à décrire des effets sonore)
 
 #### Vue de dessous
 
