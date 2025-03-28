@@ -18,7 +18,7 @@ Scénario: https://tprangers.github.io/internature/#/20_intention/30_scenario/
 ##
 ## 3eme Place: C0N-DU8
 
-<img src="ImagesEnsembles/Con-Du8Ensemble.jpg" wdith="350" height="400" alt="Vue D'ensemble du dispositif Con-Du8"> <img src="ImagesEnsembles/Con-Du8Ensemble.jpg" wdith="350" height="400" alt="Vue D'ensemble du dispositif Con-Du8">
+<img src="ImagesEnsembles/Con-Du8Ensemble.jpg" wdith="350" height="400" alt="Vue D'ensemble du dispositif Con-Du8"> <img src="ImagesEnsembles/Con-Du8.jpg" wdith="350" height="400" alt="Vue D'ensemble du dispositif Con-Du8">
 
 Con-Du8 est très intéressant, un dispositif qui simule une course à vélo où pédaler fait avancer le vélo de l'écran. Il n'y a pas beacoup à ce dispositif, mais il est très intéressant tous de même. Je pense que les cours incontournable pour cette insallation serais: Intéractivité ludique, Objets Intéractifs, conception d'une expérience multimédia.
 
