@@ -27,7 +27,9 @@ Scénario: https://gearshift-games.github.io/Web-C0N-DU8/#/20_intention/30_scena
 ##
 ## 4eme Place: Fuga
 
-<video src="ImagesEnsembles/FugaVideo.mp4" width="350" height="400" alt="Video de Fuga"> Le Video ne marche Pas :( </video>
+<video src="ImagesEnsembles/FugaVideo.mp4" width="350" height="400" alt="Video de Fuga"> Video </video>
 
-Fuga était quand même intéressant même si je l'ai moins aimé
+Fuga était quand même intéressant même si je l'ai moins aimé que certain autres, cette atraction interactive avais plusieurs écran qui changais, mais qui n'était pas parreil entre eux. Je pense que les cours incontournable pour cette installation serais: Animation 2d, conception d'une expérience Multimédia, intéractivité ludique.
+
+Scénario: https://escapism-fuga.github.io/Fuga/#/20_intention/40_scenarimage/
 
