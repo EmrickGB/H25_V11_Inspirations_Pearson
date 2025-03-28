@@ -37,4 +37,4 @@ Chaque couleure, lorsque l'on descine sur le tableau blanc, la couleure respecti
 
 Cette attraction était ma préférée car il y avait beaucoup de parties qui bouge, la combinaisons des écouteurs, avec les couleures qui donnaient des sons différents pour chaques couleure ainsi que des son plus intenses si il y avait plus d'une couleur était très attrayant pour moi. Cela donnait vraiment l'effet multisensoriel que les créateurs voulaient. Mais J'ai aussi remarqué quelques erreures mineures; parfois, le Jaune était recconu comme du vert par la caméra, ce n'arrivait pas souvent, mais cela à rendu les testes plus difficiles. Aussi, vue que la caméra qui détecte les couleures du tableau est placée au-dessus du tableau, cela rendait les teste beaucoup plus dur, car souvent, nos bras cachaient les couleures, et les fesaient disparaitre de l'écran.
 
-> (L'est crédits sont dans la description)
+> (Les crédits sont dans la description)
