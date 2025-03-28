@@ -27,5 +27,7 @@ Scénario: https://gearshift-games.github.io/Web-C0N-DU8/#/20_intention/30_scena
 ##
 ## 4eme Place: Fuga
 
-<video scr="ImagesEnsembles/FugaVideo.mp4" width="350" height="400" alt="Video de Fuga">
+<video src="ImagesEnsembles/FugaVideo.mp4" width="350" height="400" alt="Video de Fuga"> Le Video ne marche Pas :( </video>
+
+Fuga était quand même intéressant même si je l'ai moins aimé
 
