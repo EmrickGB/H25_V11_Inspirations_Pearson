@@ -11,5 +11,9 @@ Visité le mardi 18 mars 2025
 #
 # Description 
 
-L'attraction est dans le petit studio et consiste de trois éléments: L'écran, le tableau blanc, et les écouteurs­. Il y à une caméra au dessus du tableau blanc qui est branché à l'écran. À coté du tableau blanc, il y a 6 crayons colorés (Rouge, orange, jaune, vert, bleu et violet)
+L'attraction est dans le petit studio et consiste de trois éléments: L'écran, le tableau blanc, et les écouteurs­. Il y à une caméra au dessus du tableau blanc qui est branché à l'écran. À coté du tableau blanc, il y a 6 crayons colorés (Orange, Rouge, Jaune, Vert, Bleu et Violet)
+
+<img src="images/CouleuresTableau.jpg" wdith="350" height="400" alt="Les Crayons et les couleures">
+
+Chaque couleure, lorsque l'on descine sur le tableau blanc, la couleure respective apparaitrera 
 
