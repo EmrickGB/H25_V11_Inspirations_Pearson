@@ -1,6 +1,7 @@
 # Conférence sur le "studio Antimodular"
 
 > Date de la Conférence: 25 Mars 2025
+> 
 > Lieu: Collège Montmorency / Salle Claude Legault (Local B1346)
 
 
