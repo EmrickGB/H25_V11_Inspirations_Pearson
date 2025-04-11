@@ -7,5 +7,6 @@
 ### Introduction <br>
 Le mardi 25 mars 2025, nous avons eu la chance d'assister à une conférence, dans la Salle Claude Legault au collège Montmorency, qui était dirigé par ***Jade Séguéla***, la registraire du studio. La conférence était principalement sur l'atelier Lozano-Hemmer, du Studio Antimodular, le rôle qu'elle joue dans le studio, sur ce qu’ils font pour leur exposition et sur deux expositions dont Jade a fait partie directement. <br>
 
-### Lozano-Hemmer
+### Lozano-Hemmer et le Studio Antimodular
 
+Le Studio Antimodular à comme but, avant tout dans leurs œuvres d'évoquer une émotion, que ce soit dans une œuvre interactive ou immersive, c'est leur but principal, ainsi que de donner un bon spectacle visuel, évidemment. Le studio a fait des expositions dans des musées à travers le monde entier.
