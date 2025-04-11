@@ -9,4 +9,7 @@ Le mardi 25 mars 2025, nous avons eu la chance d'assister à une conférence, da
 
 ### Lozano-Hemmer et le Studio Antimodular
 
-Le Studio Antimodular à comme but, avant tout dans leurs œuvres d'évoquer une émotion, que ce soit dans une œuvre interactive ou immersive, c'est leur but principal, ainsi que de donner un bon spectacle visuel, évidemment. Le studio a fait des expositions dans des musées à travers le monde entier.
+Le Studio Antimodular à comme but, avant tout dans leurs œuvres d'évoquer une émotion, que ce soit dans une œuvre interactive ou immersive, c'est leur but principal, ainsi que de donner un bon spectacle visuel, évidemment. Le studio a fait des expositions dans des musées à travers le monde entier. Le cycle de vie d'une œuvre est souvent relativement longue, même si elle n'est pas immédiatement utilisé, car la plupars du temps, celle-ci est mis de côté jusqu'à un moment opportun.
+
+### Shadow Tuner
+
