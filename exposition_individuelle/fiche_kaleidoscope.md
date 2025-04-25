@@ -17,3 +17,8 @@ Cette Attraction est une des seules attractions intérieures de lumino, la plupa
 > Devans cette Entrée (L'entrée Est de la place des arts), pour être plus specifique.
 
 ## Description
+
+L' attraction "Kaleidoscope" est une attraction immersive temporaire (Qui durait du 30 Janvier au 2 Mars 2025), celle-ci est un tunnel en forme de prisme triangulaire. Les murs intérieurs sont des mirroir le sol est en métal, et le mur du fond est un projecteur pour l'écran qui défile les images. Les images, qui semble un assortement de couleures et d'images de réseaux sociaux. <br>
+
+<img src="images/VueInterieure3.jpg" wdith="350" height="400" alt=""> <img src="images/VueInterieure1.jpg" wdith="350" height="400" alt="">
+
