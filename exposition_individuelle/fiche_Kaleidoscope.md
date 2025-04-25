@@ -1,4 +1,4 @@
-# Banque D'Inspiration Exposition Individuelle.
+# Banque D'Inspiration Visite Individuelle.
 
 ## Exposition Temporaire Lumino
 
