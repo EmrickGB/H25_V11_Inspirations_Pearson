@@ -10,4 +10,4 @@ Visite Effectuée le 21 février 2025
 
 <img src="images/Descriptiontop.jpg" wdith="350" height="400" alt=""> <img src="images/DescriptionBas.jpg" wdith="450" height="400" Alt=""> <br>
 
-aojriboagovuiaofhona
+Cette Atraction est une des seules attraction intérieures de lumino, la plupars sont extérieures
